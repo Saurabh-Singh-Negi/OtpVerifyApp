@@ -1,7 +1,9 @@
+import OtpVerification from "./pages/OtpVerification";
+
 function App() {
   return (
     <>
-      <p className="text-xl font-bold text-red-400">hello</p>
+      <OtpVerification />
     </>
   );
 }
